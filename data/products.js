@@ -656,5 +656,38 @@ const products = [
       "apparel",
       "mens"
     ]
+  },
+  {
+    id: "id1",
+    image: "./images/products/backpack.jpg",
+    name: "A dork's klunky backpack",
+    rating: {
+      stars: 2.5,
+      count: 69
+    },
+    priceCents: 3200,
+    keywords: [
+      "canvas",
+      "backpack",
+      "utility",
+      "gear"
+]
+  },
+  {
+    id: "id2",
+  image: "./images/products/umbrella.jpg",
+  name: "A dork's klunky umbrella",
+  rating: {
+    stars: 3,
+    count: 69
+  },
+  priceCents: 4500,
+  keywords: [
+    "canvas",
+    "fashionable",
+    "utility",
+    "anti-rain"
+]
   }
 ];
+
